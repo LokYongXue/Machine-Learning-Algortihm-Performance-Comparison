@@ -21,7 +21,7 @@ from google.colab import files
 uploads = files.upload()
 ```
 
-#Contributors
-Muhamad Hazami bin Jamil (Leader)
-Lok Yong Xue
+***Contributors***  
+Muhamad Hazami bin Jamil (Leader)  
+Lok Yong Xue  
 Tan Kah Jun
