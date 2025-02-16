@@ -2,6 +2,7 @@
 Comparison between 3 basic machine learning algorithm using 2 different dataset
 
 ***Run using Vscode***  
+Before running the program, ensure the paths to the datasets are correctly specified.   
 In your Visual Studio Code terminal, run the following commands:
 ```
 pip install streamlit
